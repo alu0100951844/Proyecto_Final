@@ -1,2 +1,5 @@
 En principio, ambos miembros hemos participado en la realización de todas las plantillas del proyecto. Cabría destacarse, que Sergio se centró,
-sobre todo, en las plantillas de UML, modelo Relacional y parte del modelo ER. Yeray redactó los requisitos, concluyó dicho modelo ER y se centró, en gran medida, en el diseño de la base de datos en Workbench para generar los scripts para la generación de tablas, diseñó los trigger, desarrolló el script para la carga de datos, realizó las imágenes de prueba y realizó aportaciones en el resto de plantillas.
+sobre todo, en las plantillas de UML, modelo Relacional y parte del modelo ER. Yeray redactó los requisitos, concluyó dicho modelo ER y se
+centró, en gran medida, en el diseño de la base de datos en Workbench para generar los scripts para la generación de tablas, diseñó los
+trigger, desarrolló el script para la carga de datos, realizó las imágenes de prueba y realizó aportaciones en el resto de plantillas.
+
